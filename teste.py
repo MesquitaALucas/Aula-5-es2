@@ -1,5 +1,5 @@
 import unittest
-from stack import Stack
+from main import Stack
 
 class StackTest(unittest.TestCase):
     def test_push(self):
